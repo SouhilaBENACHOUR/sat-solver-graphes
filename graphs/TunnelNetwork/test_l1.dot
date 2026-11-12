@@ -1,6 +1,0 @@
-digraph G {
-    s [shape="square"];
-    d [shape="invtriangle"];
-    
-    s -> d; // L'arête existe
-}
